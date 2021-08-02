@@ -12,7 +12,7 @@
 
   
  <br/>
-<h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
+<h2>𝐋Conhecimentos:</h2>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
 <code><img height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png"></code>
@@ -26,4 +26,4 @@
 <br/>
 
 
-![Snake animation](https://github.com/LucasTabone/LucasTabone/blob/output/github-contribution-grid-snake.svg)
+
