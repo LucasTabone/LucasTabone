@@ -1,9 +1,10 @@
 # Olá eu Sou o Lucas Tabone .
 
 <h2>Sobre min</h2>
- <h3>Estou estudando Para eu me tornar um programador Back-End</h3>
+ 
 <h3>No momento estudo Html - CSS - JavaScript </h3>
-<h3>Próximo passo será ser um um programador NODE.JS Sênior ( FOCO rss')</h3>
+<h3>Próximo passo será ser um um programador NODE.JS Sênior ( FOCO )
+<h3>Estou se Dedicando para me tornar um programador Back-End</h3>
 <div>
   <a href="https://github.com/LucasTabone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasTabone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
